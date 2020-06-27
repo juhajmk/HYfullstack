@@ -1,0 +1,6 @@
+note over selain:
+selain lähettää uuden muistiinpanon
+JSON-tiedostona
+end note
+
+selain->palvelin: https://fullstack-exampleapp.herokuapp.com/new_note_spa
